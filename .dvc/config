@@ -1,4 +1,6 @@
 [core]
-    remote = myremote
-['remote "myremote"']
-    url = gdrive://1bQcqLXwOmFkpMWVb73O6AgF7-MVTG4X-
+    remote = modelsremote
+['remote "dataremote"']
+    url = http://0.0.0.0:8000/data/
+['remote "modelsremote"']
+    url = http://0.0.0.0:8000/models/
