@@ -6,3 +6,4 @@ seaborn
 numpy
 dvc
 joblib
+dvc-gdrive
