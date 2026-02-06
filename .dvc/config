@@ -1,6 +1,4 @@
 [core]
-    remote = modelsremote
-['remote "dataremote"']
-    url = http://0.0.0.0:8000/data/
-['remote "modelsremote"']
-    url = http://0.0.0.0:8000/models/
+    remote = myremote
+['remote "myremote"']
+    url = s3://dvc-storage
