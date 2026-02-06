@@ -2,3 +2,4 @@
     remote = myremote
 ['remote "myremote"']
     url = s3://dvc-storage
+    endpointurl = http://localhost:9000
