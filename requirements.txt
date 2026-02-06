@@ -7,3 +7,4 @@ numpy
 dvc
 joblib
 dvc-gdrive
+dvc_s3
